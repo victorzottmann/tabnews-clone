@@ -2,3 +2,4 @@
 /build
 .next
 .DS_Store
+.env
